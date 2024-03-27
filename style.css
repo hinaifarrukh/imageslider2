@@ -1,0 +1,64 @@
+#container{
+    width:90%;
+    height:80vh;
+    margin: 5% 5%;
+   
+    background-size: cover;
+}
+
+#leftbtn{
+    width:40px;
+    height:40px;
+    border-radius: 50%;
+    border: 2px solid black;
+    font-size: 25px;
+    text-align: center;
+    position: relative;
+    top:250px;
+    left:20px;
+}
+#rightbtn{
+    width:40px;
+    height:40px;
+    border-radius: 50%;
+    border: 2px solid black;
+    font-size: 25px;
+    text-align: center;
+    position: relative;
+    top:210px;
+    left:1050px;
+}
+.box2{
+    display: flex;
+    
+}
+.btn{
+    width:15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: white;
+    position: relative;
+    top:350px;
+    left: 490px;
+    margin:5px;
+}
+.image1{
+    background-image: url("images/image10.jpg");
+
+}
+.image2{
+    background-image: url("images/image5.jpg");
+
+}
+.image3{
+    background-image: url("images/image7.jpeg");
+
+}
+.image4{
+    background-image: url("images/image6.jpeg");
+
+}
+.image5{
+    background-image: url("images/image8.png");
+
+}
